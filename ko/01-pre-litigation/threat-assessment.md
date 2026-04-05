@@ -1,17 +1,17 @@
 # 위협 평가(Threat Assessment)
 
-> **빠른 참조(Quick Reference):** 경고장(demand letter) 또는 침해통지(notice of infringement)를 받으면 1~2주 내에 “즉시 대응/협상/선제소송(DJ)/무대응” 중 경로를 선택해야 합니다. 본 문서는 초기 triage와 의사결정 프레임을 제공합니다.
+> **빠른 참조(Quick Reference):** 경고장(demand letter) 또는 침해통지(notice of infringement)를 받으면 1–2주 내에 “즉시 대응/협상/선제소송(DJ)/무대응” 중 경로를 선택해야 합니다. 본 문서는 초기 triage와 의사결정 프레임을 제공합니다.
 
 ---
 
 ## 1. 초기 72시간 대응 프레임
 
-### Day 0~1
+### Day 0–1
 - 법무·IP·사업·엔지니어링 킥오프(kickoff) 개최
 - 소송보존명령(litigation hold) 발령 여부 판단
 - 상대방 원문 통지서의 청구항/제품 특정성 확인
 
-### Day 2~3
+### Day 2–3
 - 특허군(patent family)·소유구조·라이선스 이력 조사
 - 피소 제품(accused products) 1차 매핑(claim mapping)
 - 관할/재판지 리스크(venue exposure) 검토
@@ -74,7 +74,7 @@
 
 ---
 
-## 7. 의사결정 게이트(7~14일)
+## 7. 의사결정 게이트(7–14일)
 
 아래 질문에 “예”가 많을수록 강경 방어가 합리적입니다.
 

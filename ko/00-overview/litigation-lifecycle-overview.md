@@ -13,7 +13,7 @@
 - 미국 연방지방법원(US federal district courts)에 매년 **3,500건 이상 특허소송(patent suits)** 이 제기됩니다.
 - 특허 사건을 1심 재판(trial)까지 방어(defense)하는 데 드는 중간값 비용(median cost)은 **$3M–$5M 이상**이며, 고위험 사건은 **$10M–$30M+**가 흔합니다.
 - **비실시주체(NPE, Non-Practicing Entity / "patent troll")** 가 대형 기술·전자 기업을 상대로 한 소송의 다수를 제기합니다.
-- 주요 특허재판지(patent districts)에서 제소부터 재판까지 평균 기간은 **2.5~4년+**이며, 국제무역위원회(ITC) 사건은 통상 **10~12개월** 내 결론이 납니다.
+- 주요 특허재판지(patent districts)에서 제소부터 재판까지 평균 기간은 **2.5–4년+**이며, 국제무역위원회(ITC) 사건은 통상 **10–12개월** 내 결론이 납니다.
 
 ### 대기업을 제소하는 원고 유형(Who Sues Large Corporations)
 
@@ -65,7 +65,7 @@
                                          • [지방법원 절차중지 신청(Motion to Stay)]
     │
     ▼
-사건 초기(CASE INITIATION, 1~6개월)
+사건 초기(CASE INITIATION, 1–6개월)
 • Rule 26(f) 협의(conference)
 • 스케줄링 오더(scheduling order) 협의
 • 지역 특허규칙(local patent rules): 침해 주장서(plaintiff infringement contentions)
@@ -74,14 +74,14 @@
 • §101 신청(Alice challenge 가능 시)
         │
         ▼
-청구항 해석(Claim Construction/Markman) (6~18개월, 법원별 상이)
+청구항 해석(Claim Construction/Markman) (6–18개월, 법원별 상이)
 • 쟁점 용어 식별·서면 공방
 • 마크만 심리(Markman hearing)
 • 청구항 해석 명령(claim construction order)
 • 판결 취지에 따른 전략 조정
         │
         ▼
-사실심리 디스커버리(Fact Discovery, 6~24개월)
+사실심리 디스커버리(Fact Discovery, 6–24개월)
 • 문서제출(document production)
 • 소스코드 검토(source code review)
 • 인터로가토리/자백요청(interrogatories / requests for admission)
@@ -90,20 +90,20 @@
 • 제3자 소환장(third-party subpoenas)
         │
         ▼
-전문가 디스커버리(Expert Discovery, 18~30개월)
+전문가 디스커버리(Expert Discovery, 18–30개월)
 • 전문가 초기보고서(opening expert reports: 침해/무효/손해배상)
 • 반박보고서(rebuttal reports)
 • 전문가 증언녹취(expert depositions)
 • 다우버트 신청(Daubert motions, 전문가 증거 배제)
         │
         ▼
-약식판결(Summary Judgment, 24~36개월)
+약식판결(Summary Judgment, 24–36개월)
 • 비침해/무효 약식판결 신청
 • 반대서면 및 답변서
 • 심문 및 결정
         │
         ▼
-재판 전 단계(PRE-TRIAL, 30~42개월)
+재판 전 단계(PRE-TRIAL, 30–42개월)
 • 재판전명령(pre-trial order)
 • 증거배제 신청(motions in limine)
 • 배심지시안(jury instructions) 협의
@@ -111,7 +111,7 @@
 • 배심선발 질문(voir dire questions) 준비
         │
         ▼
-본안 재판(TRIAL, 통상 5~10일)
+본안 재판(TRIAL, 통상 5–10일)
 • 배심원 선정(voir dire)
 • 개시진술(opening statements)
 • 원고 입증(침해/손해배상)
@@ -121,7 +121,7 @@
 • 평결(verdict)
         │
         ▼
-재판 후 절차(POST-TRIAL, 평결 후 1~6개월)
+재판 후 절차(POST-TRIAL, 평결 후 1–6개월)
 • JMOL 신청(Rule 50(b), 법적으로 불충분한 평결 공격)
 • 신규재판 신청(new trial motion, Rule 59)
 • 증액손해배상(enhanced damages) 관련 서면
@@ -131,9 +131,9 @@
         ▼
 연방순회항소법원 항소(APPEAL TO FEDERAL CIRCUIT)
 • 항소통지(notice of appeal): 최종판결 후 30일
-• 서면공방(briefing): 약 12~18개월
+• 서면공방(briefing): 약 12–18개월
 • 구두변론(oral argument): 통상 당사자별 15분
-• 판결(decision): 변론 후 통상 6~12개월
+• 판결(decision): 변론 후 통상 6–12개월
         │
         ▼
 (환송 가능성/대법원 상고허가 certiorari 가능성)
@@ -200,7 +200,7 @@ Markman 심리(~Month 12)            ───── 절차중지(Motion to Stay
 
 ## 6. 단계별 비용 및 리소스 전망(Cost and Resource Expectations)
 
-아래 수치는 중간 복잡도 사건(단일 특허, 중간 가치 제품) 기준의 **대략적 범위(rough order-of-magnitude)** 입니다. 고위험 사건(복수 특허, 초고가 매출 제품)은 3~5배 이상이 될 수 있습니다.
+아래 수치는 중간 복잡도 사건(단일 특허, 중간 가치 제품) 기준의 **대략적 범위(rough order-of-magnitude)** 입니다. 고위험 사건(복수 특허, 초고가 매출 제품)은 3–5배 이상이 될 수 있습니다.
 
 | 단계(Phase) | 통상 비용 범위(Typical Cost Range) | 주요 비용 동인(Key Cost Drivers) |
 |---|---|---|
@@ -226,7 +226,7 @@ Markman 심리(~Month 12)            ───── 절차중지(Motion to Stay
 
 | 항목(Feature) | 지방법원(District Court) | ITC Section 337 |
 |---|---|---|
-| 심리까지 기간 | 2~5년 | **10~12개월** |
+| 심리까지 기간 | 2–5년 | **10–12개월** |
 | 구제수단(Remedy) | 손해배상 + 금지명령 | **수입금지(배제명령, exclusion order)** / 손해배상 없음 |
 | 약식판결 활용 | 보편적(Common) | 제한적(Rare, summary determination) |
 | 무효 입증책임 | 명백·확신 증명(clear and convincing) | 명백·확신 증명 |
@@ -259,10 +259,10 @@ Markman 심리(~Month 12)            ───── 절차중지(Motion to Stay
 | 실패 패턴 | 영향 | 예방 조치 |
 |---|---|---|
 | 초기 사실관계 미정리 | 방어논리 흔들림 | Day 30 ICA 고정 |
-| IPR 타이밍 지연 | Fintiv/estoppel 불리 | 3~6개월 내 제기 판단 |
+| IPR 타이밍 지연 | Fintiv/estoppel 불리 | 3–6개월 내 제기 판단 |
 | 디스커버리 범위 과다 | 비용 급증 | staged discovery 운영 |
 | 손해모델 조기대응 부족 | 고액 평결 노출 | Daubert/MIL 동시 준비 |
-| 재판 메시지 과복잡 | 배심 설득력 저하 | 2~3개 핵심 내러티브 유지 |
+| 재판 메시지 과복잡 | 배심 설득력 저하 | 2–3개 핵심 내러티브 유지 |
 
 ## 10. 원문 대비 보완: 경영진 보고 리듬
 
