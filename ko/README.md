@@ -23,28 +23,28 @@
 
 | 단계 | 문서 | 주요 주제 |
 |---|---|---|
-| **개요** | [소송 생애주기 개요](ko/00-overview/litigation-lifecycle-overview.md) | 전체 생애주기, 역할, 비용 예상 |
-| **소송 전** | [위협 평가](ko/01-pre-litigation/threat-assessment.md) | 요구 서한, 분류, DJ 전략 |
-| | [소송 보전 조치 및 증거 보존](ko/01-pre-litigation/litigation-hold-evidence-preservation.md) | 보전 고지, ESI, 증거 훼손 위험 |
-| **사건 개시** | [초기 사건 평가](ko/02-case-initiation/initial-case-assessment.md) | 최초 2주, 무효·비침해 분석 |
-| | [관할 및 재판 지역](ko/02-case-initiation/venue-and-jurisdiction.md) | TC Heartland, 외국 피고 규칙, 이송 |
-| | [초기 사건 전략](ko/02-case-initiation/early-case-strategy.md) | 방어 이론, § 101 신청, 고의성 |
-| **특허 등록 후 절차** | [IPR/PGR 개요](ko/03-post-grant-proceedings/ipr-pgr-overview.md) | 절차 메커니즘, 금반언, 비교 표 |
-| | [IPR/PGR 전략 및 타이밍](ko/03-post-grant-proceedings/ipr-pgr-strategy-and-timing.md) | 의사결정 트리, 청원서, 정지 신청 |
-| | [직권 재심사](ko/03-post-grant-proceedings/ex-parte-reexamination.md) | IPR 대비 사용 시기 |
-| **청구항 해석** | [청구항 해석 전략](ko/04-claim-construction/claim-construction-strategy.md) | Markman 준비, 용어 선정, 출원 경과 |
-| **증거개시** | [증거개시 전략](ko/05-discovery/discovery-strategy.md) | 문서 제출, 질문서, 증언록 취득 |
-| | [특권 및 업무 산출물 보호](ko/05-discovery/privilege-and-work-product-protection.md) | 사내 특권, 법적 의견서, FRE 502(d) |
-| **전문가 증인** | [전문가 증인 관리](ko/06-expert-witnesses/expert-witness-management.md) | 선발, Daubert, 증언 준비 |
-| **손해배상 방어** | [손해배상 방어 전략](ko/07-damages-defense/damages-defense-strategy.md) | Georgia-Pacific, 배분, 고의성 |
-| **합의** | [합의 및 라이선스 전략](ko/08-settlement-and-licensing/settlement-and-licensing-strategy.md) | 의사결정 매트릭스, 협상, 라이선스 조건 |
-| **재판** | [재판 준비 가이드](ko/09-trial-preparation/trial-preparation-guide.md) | 약식판결 신청, MIL, 배심원 선발, eBay |
-| **항소** | [항소 가이드](ko/10-appeals/appeals-guide.md) | 연방 순회법원, 심사 기준 |
-| **포트폴리오 관리** | [자유 실시 분석](ko/11-portfolio-management/freedom-to-operate.md) | FTO 방법론, 제품 출시 관문 |
-| | [설계 변경 및 방어적 포트폴리오](ko/11-portfolio-management/design-arounds-and-defensive-portfolio.md) | 설계 변경, 방어 특허, LOT/OIN |
-| **참고 자료** | [주요 기한 참조표](ko/appendices/key-deadlines-reference.md) | 모든 중요 소송 기한 |
-| | [용어 해설집](ko/appendices/glossary.md) | 50개 이상의 주요 용어 정의 |
-| | [공급업체 및 리소스 가이드](ko/appendices/vendor-and-resource-guide.md) | 도구, 데이터베이스, 서비스 제공업체 |
+| **개요** | [소송 생애주기 개요](00-overview/litigation-lifecycle-overview.md) | 전체 생애주기, 역할, 비용 예상 |
+| **소송 전** | [위협 평가](01-pre-litigation/threat-assessment.md) | 요구 서한, 분류, DJ 전략 |
+| | [소송 보전 조치 및 증거 보존](01-pre-litigation/litigation-hold-evidence-preservation.md) | 보전 고지, ESI, 증거 훼손 위험 |
+| **사건 개시** | [초기 사건 평가](02-case-initiation/initial-case-assessment.md) | 최초 2주, 무효·비침해 분석 |
+| | [관할 및 재판 지역](02-case-initiation/venue-and-jurisdiction.md) | TC Heartland, 외국 피고 규칙, 이송 |
+| | [초기 사건 전략](02-case-initiation/early-case-strategy.md) | 방어 이론, § 101 신청, 고의성 |
+| **특허 등록 후 절차** | [IPR/PGR 개요](03-post-grant-proceedings/ipr-pgr-overview.md) | 절차 메커니즘, 금반언, 비교 표 |
+| | [IPR/PGR 전략 및 타이밍](03-post-grant-proceedings/ipr-pgr-strategy-and-timing.md) | 의사결정 트리, 청원서, 정지 신청 |
+| | [직권 재심사](03-post-grant-proceedings/ex-parte-reexamination.md) | IPR 대비 사용 시기 |
+| **청구항 해석** | [청구항 해석 전략](04-claim-construction/claim-construction-strategy.md) | Markman 준비, 용어 선정, 출원 경과 |
+| **증거개시** | [증거개시 전략](05-discovery/discovery-strategy.md) | 문서 제출, 질문서, 증언록 취득 |
+| | [특권 및 업무 산출물 보호](05-discovery/privilege-and-work-product-protection.md) | 사내 특권, 법적 의견서, FRE 502(d) |
+| **전문가 증인** | [전문가 증인 관리](06-expert-witnesses/expert-witness-management.md) | 선발, Daubert, 증언 준비 |
+| **손해배상 방어** | [손해배상 방어 전략](07-damages-defense/damages-defense-strategy.md) | Georgia-Pacific, 배분, 고의성 |
+| **합의** | [합의 및 라이선스 전략](08-settlement-and-licensing/settlement-and-licensing-strategy.md) | 의사결정 매트릭스, 협상, 라이선스 조건 |
+| **재판** | [재판 준비 가이드](09-trial-preparation/trial-preparation-guide.md) | 약식판결 신청, MIL, 배심원 선발, eBay |
+| **항소** | [항소 가이드](10-appeals/appeals-guide.md) | 연방 순회법원, 심사 기준 |
+| **포트폴리오 관리** | [자유 실시 분석](11-portfolio-management/freedom-to-operate.md) | FTO 방법론, 제품 출시 관문 |
+| | [설계 변경 및 방어적 포트폴리오](11-portfolio-management/design-arounds-and-defensive-portfolio.md) | 설계 변경, 방어 특허, LOT/OIN |
+| **참고 자료** | [주요 기한 참조표](appendices/key-deadlines-reference.md) | 모든 중요 소송 기한 |
+| | [용어 해설집](appendices/glossary.md) | 50개 이상의 주요 용어 정의 |
+| | [공급업체 및 리소스 가이드](appendices/vendor-and-resource-guide.md) | 도구, 데이터베이스, 서비스 제공업체 |
 
 ---
 
@@ -62,7 +62,7 @@
 - [ ] **경영진에게 보고하십시오** — 보고 내용을 문서화하십시오 (특권 보존)
 - [ ] **외부 법률 자문에 연락하십시오** — 사전에 선정되지 않은 경우 즉시 선정 절차를 시작하십시오
 
-→ 상세 내용: [위협 평가](ko/01-pre-litigation/threat-assessment.md) | [소송 보전 조치](ko/01-pre-litigation/litigation-hold-evidence-preservation.md)
+→ 상세 내용: [위협 평가](01-pre-litigation/threat-assessment.md) | [소송 보전 조치](01-pre-litigation/litigation-hold-evidence-preservation.md)
 
 ---
 
@@ -72,18 +72,18 @@
 
 ### 관할 노출
 
-*TC Heartland v. Kraft Foods* (SCOTUS 2017) — 미국 국내 피고의 특허 소송 관할 기준에 의해 보호받는 미국 국내 기업과 달리, **외국 법인은 28 U.S.C. § 1391(c)(3)를 인용한 *In re HTC Corp.* (Fed. Cir. 2018) — 외국 피고는 어느 미국 연방 지방법원에서도 제소 가능에 따라 미국의 모든 연방 지방법원에서 제소될 수 있습니다.** NPE 원고들은 해당 외국 기업이 그 지역에 아무런 사업장이 없어도 원고에게 유리한 지방법원(특히 텍사스 동부 지방법원 또는 텍사스 서부 지방법원)에 소를 제기함으로써 이를 적극적으로 악용합니다. 2025년 기준으로 단 한 해 동안 텍사스 동부 지방법원에서 외국 모회사를 표적으로 한 40건 이상의 사건이 제기되었습니다.
-→ 참조: [관할 및 재판 지역](ko/02-case-initiation/venue-and-jurisdiction.md)
+*TC Heartland v. Kraft Foods* (SCOTUS 2017) 판례로 관할 보호를 받는 미국 내국법인과 달리, **외국 법인은 *In re HTC Corp.* (Fed. Cir. 2018)에 따라 28 U.S.C. § 1391(c)(3) 기준이 적용되어 미국의 사실상 모든 연방 지방법원에서 제소될 수 있습니다.** NPE 원고들은 외국 기업이 해당 지역에 실질 사업장이 없더라도 원고 친화적 재판지(특히 텍사스 동부/서부 지방법원)를 선택해 이를 적극 활용합니다. 2025년에도 외국 모회사를 겨냥한 사건이 집중 제기되었습니다.
+→ 참조: [관할 및 재판 지역](02-case-initiation/venue-and-jurisdiction.md)
 
 ### 증거개시 비대칭
 
 한국 기업들은 **미국식 광범위한 재판 전 증거개시(pretrial discovery)가 없는** 한국 소송 관행에 익숙합니다. 미국의 연방민사소송규칙(FRCP) Rule 26에 따른 증거개시는 이메일, 메신저 앱(카카오톡 포함), 소스 코드, 재무 기록 등 잠재적으로 관련 있는 모든 문서의 보존 및 제출을 요구합니다. 이를 준수하지 않을 경우 불리한 추론 배심원 지시(adverse inference jury instructions)를 포함한 엄중한 제재를 받을 수 있습니다.
-→ 참조: [소송 보전 조치](ko/01-pre-litigation/litigation-hold-evidence-preservation.md) | [증거개시 전략](ko/05-discovery/discovery-strategy.md)
+→ 참조: [소송 보전 조치](01-pre-litigation/litigation-hold-evidence-preservation.md) | [증거개시 전략](05-discovery/discovery-strategy.md)
 
 ### ITC 337조 노출
 
 미국으로 제품을 수입하는 외국 기업들은 ITC 조사에 직면할 수 있으며, ITC 절차는 10~12개월 내에 심리가 완료되고 수입 금지 조치가 내려질 수 있습니다. 한국 기업들은 빈번한 **표적**(특히 미국 경쟁사로부터)인 동시에 ITC를 공세적 수단으로 **활용**하기도 합니다(예: Samsung Display v. BOE, 2024~2025).
-→ 참조: [초기 사건 평가](ko/02-case-initiation/initial-case-assessment.md)
+→ 참조: [초기 사건 평가](02-case-initiation/initial-case-assessment.md)
 
 ### NPE 표적화
 
