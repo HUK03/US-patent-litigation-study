@@ -1,5 +1,8 @@
 # IPR/PGR 전략 및 타이밍
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** IPR을 조기에(소장 후 3–6개월) 제기하면 PTAB 개시확률과 지방법원 stay 레버리지가 모두 커집니다. FY2025 개시율은 50%로 하락했고, 이제 청구서 품질이 승부를 가릅니다.
 
 ---
@@ -233,3 +236,7 @@ Final Written Decision (FWD)
 - FWD 후 63일 내 Federal Circuit 항소
 
 🌏 **한국기업 Post-IPR 메모:** PTAB에서 주장청구항이 취소되면 즉시 지방법원 종결(SJ/기각)을 추진하고, 동일 패밀리 continuation 특허도 연쇄적으로 IPR 취약성 점검이 필요합니다.
+
+---
+이전 문서: [IPR 및 PGR: USPTO 등록 후 절차(Post-Grant Proceedings) 개요](ipr-pgr-overview.md)
+다음 문서: [직권 재심사 (Ex Parte Reexamination)](ex-parte-reexamination.md)

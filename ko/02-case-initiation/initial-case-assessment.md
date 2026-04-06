@@ -1,5 +1,8 @@
 # 초기 사건 평가 (Initial Case Assessment)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 소장이 송달되었습니다. 답변 기한은 21일입니다(연장은 통상 가능하지만 즉시 요청해야 함). 이 문서는 최초 2주 동안 무엇을 해야 하는지와 경영진 대상 현실적 초기 평가 프레임을 다룹니다.
 
 ---
@@ -265,3 +268,7 @@ EXECUTIVE SUMMARY
 
 Outside counsel: [Firm], lead partner [Name]
 ```
+
+---
+이전 문서: [소송보존조치(Litigation Hold) 및 증거 보전(Evidence Preservation)](../01-pre-litigation/litigation-hold-evidence-preservation.md)
+다음 문서: [미국 특허소송의 재판지(Venue)와 관할(Jurisdiction)](venue-and-jurisdiction.md)

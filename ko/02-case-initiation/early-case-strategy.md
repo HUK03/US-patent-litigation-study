@@ -1,5 +1,8 @@
 # 초기 사건 전략 (Early Case Strategy)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 소송 첫 90일의 전략 결정이 결과를 좌우합니다. 이 문서는 방어 이론 프레이밍, 초기 모션 기회, 고의침해(willfulness) 관리, IPR/지방법원 병행 트랙 결정을 다룹니다.
 
 ---
@@ -174,3 +177,7 @@ Step 3: 해당 관할의 § 101 모션 경향은?
 - IPR 근거와 지방법원 무효주장이 중복되는가?
 
 **베스트 프랙티스:** IPR 청구는 가능한 한 조기(소장 송달 후 3–6개월 내) 제기해 PTAB 개시율 및 stay 레버리지를 최대화하십시오.
+
+---
+이전 문서: [미국 특허소송의 재판지(Venue)와 관할(Jurisdiction)](venue-and-jurisdiction.md)
+다음 문서: [IPR 및 PGR: USPTO 등록 후 절차(Post-Grant Proceedings) 개요](../03-post-grant-proceedings/ipr-pgr-overview.md)

@@ -1,5 +1,8 @@
 # 미국 특허 소송 방어 가이드라인
 
+[상위 목차(ko/README.md)](README.md)
+
+
 > **면책고지(Disclaimer):** 본 가이드라인은 내부 정보 제공 목적이며 법률 자문(legal advice)이 아닙니다. 특허 소송은 사실관계 및 관할에 따라 크게 달라집니다. 어떠한 법적 조치 또는 중대한 의사결정을 하기 전에 반드시 자격을 갖춘 미국 특허 소송 변호사를 선임하십시오.
 
 ---
@@ -119,3 +122,7 @@
 - *EcoFactor v. Google* (Fed. Cir. 전원합의체 2025) — 비교가능 라이선스 안분
 - *Rex Medical v. Intuitive Surgical* (Fed. Cir. 2025년 9월) — 손해배상 안분 의무화
 - PTAB FY2025 통계 — 개시율 50%로 하락; FWD에서 약 80% 청구항 무효화
+
+---
+이전 문서: 없음
+다음 문서: [미국 특허 소송: 생애주기 개요](00-overview/litigation-lifecycle-overview.md)

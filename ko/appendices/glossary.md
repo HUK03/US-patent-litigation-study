@@ -1,5 +1,8 @@
 # 핵심 용어집 (Glossary of Key Terms)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > 정의는 미국 특허소송 실무 맥락의 실용적 의미를 기준으로 하며, 학술적 포괄 정의를 대체하지 않습니다.
 
 ---
@@ -189,3 +192,7 @@
 **Willful infringement** — Halo 기준의 의도적 침해. 가중배상 전제요건이지만 자동 증액은 아님.
 
 **Written description (§112(a))** — 출원 시 발명 보유(possession)를 명세서로 입증해야 한다는 요건.
+
+---
+이전 문서: [핵심 기한 레퍼런스 (Key Deadlines Reference)](key-deadlines-reference.md)
+다음 문서: [벤더 및 리소스 가이드 (Vendor and Resource Guide)](vendor-and-resource-guide.md)

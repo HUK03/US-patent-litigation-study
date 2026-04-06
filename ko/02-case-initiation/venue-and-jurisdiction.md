@@ -1,5 +1,8 @@
 # 미국 특허소송의 재판지(Venue)와 관할(Jurisdiction)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 특허사건이 어디에 제기되는지는 본안만큼 중요할 수 있습니다. 미국 내 피고에게는 *TC Heartland* (2017)가 중요한 보호를 제공하지만, 한국 및 기타 해외기업에는 해당 보호가 **적용되지 않습니다** — 미국 어느 지방법원에서도 피소될 수 있습니다.
 
 ---
@@ -149,3 +152,7 @@ TC Heartland 이후 **적법 재판지를 주장하는 측이 입증책임**을 
 - 원칙적으로 먼저 제기된 사건에 우선권 추정
 - 예외: 순수한 관할 선점용 anticipatory suit, customer-suit exception 등
 - 너무 이르면 DJ 관할 자체가 문제될 수 있고, 너무 늦으면 상대가 먼저 제소함
+
+---
+이전 문서: [초기 사건 평가 (Initial Case Assessment)](initial-case-assessment.md)
+다음 문서: [초기 사건 전략 (Early Case Strategy)](early-case-strategy.md)

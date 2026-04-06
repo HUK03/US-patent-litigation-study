@@ -1,5 +1,8 @@
 # 벤더 및 리소스 가이드 (Vendor and Resource Guide)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 미국 특허소송 방어에 쓰이는 핵심 도구·DB·서비스를 기능별로 정리했습니다. 구독 필요 여부는 리소스별로 다릅니다.
 
 ---
@@ -142,3 +145,7 @@
 | KITA IP Desk | 수출기업 IP 상담 |
 | US-KR PPH | 한미 심사결과 연계 신속심사 |
 | KPAA (US) | 한국어 가능한 미국 특허 실무 네트워크 |
+
+---
+이전 문서: [핵심 용어집 (Glossary of Key Terms)](glossary.md)
+다음 문서: 없음

@@ -1,5 +1,8 @@
 # 청구항 해석 전략 (Claim Construction Strategy)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 청구항 해석(Markman hearing)은 특허사건의 가장 중요한 분기점인 경우가 많습니다. 유리한 해석은 비침해로 사건을 끝낼 수 있고, 불리한 해석은 강한 방어도 붕괴시킬 수 있습니다. 재판처럼 준비하십시오.
 
 ---
@@ -160,3 +163,7 @@ PTAB도 Phillips 기준을 사용하므로 과거 BRI-Phillips 긴장은 완화.
 - 공동대리인 협의 없이 즉석 양보 금지
 
 🌏 **한국 기업 메모:** 한국어 기술문서/엔지니어 설명을 Markman에 반영해야 하면 공인 번역을 충분히 앞당겨 준비하십시오.
+
+---
+이전 문서: [직권 재심사 (Ex Parte Reexamination)](../03-post-grant-proceedings/ex-parte-reexamination.md)
+다음 문서: [증거개시 전략 (Discovery Strategy)](../05-discovery/discovery-strategy.md)

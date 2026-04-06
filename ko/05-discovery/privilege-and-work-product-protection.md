@@ -1,5 +1,8 @@
 # 특권(Privilege) 및 워크프로덕트(Work Product) 보호
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 특허사건에서 변호사-의뢰인 특권은 쉽게 포기됩니다. 특히 사내변호사의 법률/사업 역할 혼재, 그리고 willfulness 방어를 위해 opinion of counsel에 의존할 때 위험이 큽니다. 사건 초기에 특권 아키텍처를 설계하십시오.
 
 ---
@@ -163,3 +166,7 @@ Fed. R. Civ. P. 26(b)(3): 소송 대비/재판 준비를 위해 작성된 문서
 대량 생산 사건에서는 범주형 로그가 허용되기도 합니다. 한국어 대량 내부커뮤니케이션 사건에서 부담을 크게 줄일 수 있어 조기 협의 권장.
 
 🌏 **한국 기업 메모:** 한국어 특권문서는 로그에 영어 요약을 제공해 법원이 특권 판단 가능하도록 해야 합니다(전문 번역은 통상 불필요).
+
+---
+이전 문서: [증거개시 전략 (Discovery Strategy)](discovery-strategy.md)
+다음 문서: [전문가 증인 관리 (Expert Witness Management)](../06-expert-witnesses/expert-witness-management.md)
