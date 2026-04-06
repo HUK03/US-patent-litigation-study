@@ -215,46 +215,40 @@ IT는 소송보존 지시 수령 후 **48시간 내** 다음 조치를 해야 �
 ```
 [PRIVILEGED AND CONFIDENTIAL — ATTORNEY-CLIENT COMMUNICATION]
 
-To: [Custodian Name]
-From: Legal Department / IP Counsel
-Date: [Date]
-Re: LITIGATION HOLD — [Case Name / Patent Number]
+수신: [보관책임자 이름]
+발신: 법무부서 / IP 담당 변호사
+일자: [날짜]
+제목: 소송 보존 명령(Litigation Hold) — [사건명 / 특허번호]
 
-This notice is a legal hold notice issued by the Legal Department. You are required
-to preserve ALL documents and information that may be relevant to the matter
-described below. Please read this notice carefully.
+본 통지는 법무부서가 발행하는 소송 보존 명령 통지입니다. 귀하는 아래에 설명된 사안과 관련될 수 있는 모든 문서 및 정보를 보존해야 할 의무가 있습니다. 본 통지를 주의 깊게 읽어주시기 바랍니다.
 
-MATTER DESCRIPTION:
-Our company has received a patent infringement demand / has been served with a
-complaint concerning [describe accused product/technology] in connection with
-US Patent No. [Patent Number].
+사안 설명:
+당사는 미국 특허 제 [특허번호]와 관련하여 [문제되는 제품/기술 설명]에 대한 특허침해 경고를 받았거나, 소장을 송달받았습니다.
 
-YOUR OBLIGATIONS:
-Effective immediately, you must:
-1. PRESERVE all documents, files, and records (electronic and physical) relating
-   to [accused product/feature/technology], including but not limited to:
-   [list specific categories relevant to custodian's role]
+귀하의 의무:
+즉시 다음 사항을 이행해야 합니다.
 
-2. SUSPEND any routine deletion, archiving, or cleanup that would destroy
-   relevant information. This applies to:
-   - Email (all accounts)
-   - Instant messages (Teams, Slack, KakaoTalk, etc.)
-   - Files on your computer, shared drives, and cloud storage
-   - Any other records related to the matter
+1. [문제되는 제품/기능/기술]과 관련된 모든 문서, 파일 및 기록(전자문서 및 종이문서 포함)을 보존해야 합니다. 여기에는 다음이 포함되며, 이에 한정되지 않습니다:
+   [보관책임자의 역할과 관련된 구체적 자료 항목 기재]
 
-3. NOTIFY the Legal Department immediately if you are aware of any relevant
-   documents that may have been deleted or altered.
+2. 관련 정보를 삭제하게 될 수 있는 통상적인 삭제, 보관 이전(archiving), 또는 정리 작업을 중단해야 합니다. 이는 다음에 적용됩니다:
+   - 이메일(모든 계정)
+   - 인스턴트 메시지(Teams, Slack, 카카오톡 등)
+   - 개인 컴퓨터, 공유 드라이브 및 클라우드 저장소 내 파일
+   - 그 밖에 본 사안과 관련된 모든 기록
 
-4. RETURN the signed acknowledgment below by [date].
+3. 관련 문서가 이미 삭제되었거나 변경되었을 가능성을 알고 있는 경우, 즉시 법무부서에 알려야 합니다.
 
-This obligation continues until you receive a written release from the Legal
-Department. Questions? Contact [Name, email, phone].
+4. 아래 서명된 확인서를 [날짜]까지 반환해야 합니다.
 
-I acknowledge that I have received, read, and understand this litigation hold notice.
+이 의무는 법무부서로부터 서면 해제 통지를 받을 때까지 계속됩니다. 문의사항은 [이름, 이메일, 전화번호]로 연락하시기 바랍니다.
 
-Signature: _______________ Date: _______________
-Name: _______________
-Department: _______________
+본인은 이 소송 보존 명령 통지를 수령하였고, 읽었으며, 그 내용을 이해하였음을 확인합니다.
+
+서명: _______________   일자: _______________
+이름: _______________
+부서: _______________
+
 ```
 
 ---
