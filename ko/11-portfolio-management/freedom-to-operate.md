@@ -1,5 +1,8 @@
 # 실시자유(FTO) 분석 (Freedom to Operate)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** FTO는 "이 제품을 제3자 특허를 침해하지 않고 제조/판매/사용할 수 있는가?"를 답합니다. 출시 전 수행하면 저비용 설계변경이 가능하고, 소송 중 수행하면 디자인어라운드 지도와 선의(good-faith) 방어 근거를 제공합니다.
 
 ---
@@ -137,3 +140,7 @@ SIGN-OFF
 □ IP Counsel: _______________  Date: _______________
 □ Business Lead: _______________  Date: _______________
 ```
+
+---
+이전 문서: [항소 가이드 (Appeals Guide)](../10-appeals/appeals-guide.md)
+다음 문서: [디자인어라운드 및 방어적 특허 포트폴리오](design-arounds-and-defensive-portfolio.md)

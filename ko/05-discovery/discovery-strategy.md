@@ -1,5 +1,8 @@
 # 증거개시 전략 (Discovery Strategy)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 특허 소송의 discovery는 비대칭입니다. 원고는 피고의 기술·재무 자료를 요구하고, 피고는 원고의 라이선스 이력·발명자 기록을 확보해야 합니다. 생산 범위, 특권, 소스코드 프로토콜을 엄격히 관리하면서 손해배상 방어의 핵심인 비교가능 라이선스(comparable licenses)를 공격적으로 확보하십시오.
 
 ---
@@ -192,3 +195,7 @@ meet-and-confer
 ```
 
 실무상 대부분 분쟁은 판사 단계 전 해결됩니다. 핵심은 "합리적 입장과 선의 협의" 기록입니다.
+
+---
+이전 문서: [청구항 해석 전략 (Claim Construction Strategy)](../04-claim-construction/claim-construction-strategy.md)
+다음 문서: [특권(Privilege) 및 워크프로덕트(Work Product) 보호](privilege-and-work-product-protection.md)

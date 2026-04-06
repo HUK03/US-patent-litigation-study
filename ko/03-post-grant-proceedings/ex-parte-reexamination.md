@@ -1,5 +1,8 @@
 # 직권 재심사 (Ex Parte Reexamination)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 직권 재심사(ex parte reexamination)는 신청기한이 없고 신청인 금반언(estoppel)이 없습니다. 따라서 IPR 1년 창이 닫혔거나, 익명성이 필요하거나, 지방법원 무효방어를 보완할 강한 선행기술이 있을 때 적합합니다.
 
 ---
@@ -108,3 +111,7 @@ IPR이 일반적으로 우위인 현재, EPR은 다음과 같은 좁은 역할�
 4. **저예산 옵션:** 중소기업/저가치 분쟁에서 비용 효율적 대안
 
 🌏 **한국 기업 참고:** IPR 1년 기한이 이미 지난 사건(장기 분쟁에서 흔함)에서는 EPR이 **유일한 USPTO 기반 무효화 경로**일 수 있습니다. 원 심사에서 다뤄지지 않은 강한 선행기술이 있으면 적극 검토하십시오.
+
+---
+이전 문서: [IPR/PGR 전략 및 타이밍](ipr-pgr-strategy-and-timing.md)
+다음 문서: [청구항 해석 전략 (Claim Construction Strategy)](../04-claim-construction/claim-construction-strategy.md)

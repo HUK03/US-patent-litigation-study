@@ -1,5 +1,8 @@
 # 위협 평가: 경고장(Demand Letter) 및 소 제기 전 접촉(Pre-Suit Contacts)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 특허 경고장(patent demand letter)을 받으면 **변호사 검토 없이 응답하지 마십시오**. 모든 커뮤니케이션을 보존하십시오. 48시간 내 분류·평가(triage)하십시오. 이 문서는 정확히 무엇을 해야 하는지 안내합니다.
 
 ---
@@ -231,3 +234,7 @@ DJ 원고는 **"사건 또는 분쟁(case or controversy)"** 을 입증해야 �
 - 엔지니어는 독자적 클레임차트 작성이나 침해 의견서 작성을 하지 말 것
 - 대면/구두 브리핑(변호사 메모만 보존)이 서면 커뮤니케이션보다 바람직
 - 모든 자료에 "Prepared at the Request of Counsel — Attorney-Client Privileged" 표시
+
+---
+이전 문서: [미국 특허 소송: 생애주기 개요](../00-overview/litigation-lifecycle-overview.md)
+다음 문서: [소송보존조치(Litigation Hold) 및 증거 보전(Evidence Preservation)](litigation-hold-evidence-preservation.md)

@@ -1,5 +1,8 @@
 # 핵심 기한 레퍼런스 (Key Deadlines Reference)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 특허소송 기한은 매우 엄격하며 일부는 관할상 연장 불가입니다. 소장 수령 즉시 달력화하십시오. 가장 자주 놓치고 영향이 큰 기한은 IPR 1년 바입니다.
 
 ---
@@ -93,3 +96,7 @@
 | 연장 가능하다고 오해 | **연장 불가**(법정 절대기한) |
 
 **안전수칙:** Day 1에 IPR 기한 계산·등록하고 즉시 선행기술 검색을 시작하십시오.
+
+---
+이전 문서: [디자인어라운드 및 방어적 특허 포트폴리오](../11-portfolio-management/design-arounds-and-defensive-portfolio.md)
+다음 문서: [핵심 용어집 (Glossary of Key Terms)](glossary.md)

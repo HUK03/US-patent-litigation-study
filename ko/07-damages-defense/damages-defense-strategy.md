@@ -1,5 +1,8 @@
 # 손해배상 방어 전략 (Damages Defense Strategy)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 손해배상 방어는 책임(liability) 방어만큼 중요합니다. 2024년 72건 배심평결의 총 특허손해액은 $4.19B였습니다. 2024–2025 Federal Circuit 판례(*Rex Medical*, *Provisur*, *EcoFactor*)는 안분(apportionment)을 엄격히 다투는 피고에게 유리합니다.
 
 ---
@@ -153,3 +156,7 @@
 
 ### 손해배상 SJ(제한적)
 원고 이론이 법적으로 부적절한 경우 일부/전부 SJ 가능. 실무상 특정 제품 제외 등 **부분 SJ**로 노출을 줄이는 경우가 많습니다.
+
+---
+이전 문서: [전문가 증인 관리 (Expert Witness Management)](../06-expert-witnesses/expert-witness-management.md)
+다음 문서: [합의 및 라이선싱 전략 (Settlement and Licensing Strategy)](../08-settlement-and-licensing/settlement-and-licensing-strategy.md)

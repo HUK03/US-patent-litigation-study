@@ -1,5 +1,8 @@
 # 재판 준비 가이드 (Trial Preparation Guide)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 특허 재판은 통상 5–10일, 배심은 비전문가입니다. 복잡한 기술을 단순한 서사로 번역해야 합니다. 재판 전 SJ/MIL로 쟁점을 최대한 줄이고, 모든 증인·시각자료를 승패 자산으로 준비하십시오.
 
 ---
@@ -153,3 +156,7 @@ willfulness 평결이 있어도 Read 요소를 중심으로 증액 반대.
 등이면 피고도 fee 요청 가능.
 
 🌏 **한국기업 재판 메모:** 한국 임원의 생증언이 필요한지(통역·문화장벽 포함) 케이스별로 엄격히 평가하고, 필요 시 집중 훈련 및 대체 제출(녹취 지정) 전략을 병행하십시오.
+
+---
+이전 문서: [합의 및 라이선싱 전략 (Settlement and Licensing Strategy)](../08-settlement-and-licensing/settlement-and-licensing-strategy.md)
+다음 문서: [항소 가이드 (Appeals Guide)](../10-appeals/appeals-guide.md)

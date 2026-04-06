@@ -1,5 +1,8 @@
 # 소송보존조치(Litigation Hold) 및 증거 보전(Evidence Preservation)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 소송보존조치(litigation hold)는 소장 수령 즉시 또는 소송이 "합리적으로 예상(reasonably anticipated)" 되는 즉시 **바로** 발령되어야 합니다. 관련 문서를 보존하지 못하면, 삭제가 일상적·비의도적이었더라도 배심원 불리추정 지시(adverse jury instruction)를 포함한 중대한 제재를 받을 수 있습니다.
 
 ---
@@ -253,3 +256,7 @@ Signature: _______________ Date: _______________
 Name: _______________
 Department: _______________
 ```
+
+---
+이전 문서: [위협 평가: 경고장(Demand Letter) 및 소 제기 전 접촉(Pre-Suit Contacts)](threat-assessment.md)
+다음 문서: [초기 사건 평가 (Initial Case Assessment)](../02-case-initiation/initial-case-assessment.md)

@@ -1,5 +1,8 @@
 # 디자인어라운드 및 방어적 특허 포트폴리오
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 디자인어라운드는 특허위협에 대한 가장 완전한 해법입니다(지속침해 제거, 금지명령 리스크 제거, 장래손해 차단). 강한 방어 포트폴리오는 경쟁사 상호라이선스 레버리지와 NPE 억지력에 기여합니다.
 
 ---
@@ -129,3 +132,7 @@ AIA 이후 URL 기반 가상마킹("Patent/Pat." + URL)이 허용됩니다.
 ```
 
 🌏 **한국 기업 메모:** 고빈도 NPE 타깃 환경에서는 분기 배치가 아닌 상시(real-time) 감시 체계가 필요합니다.
+
+---
+이전 문서: [실시자유(FTO) 분석 (Freedom to Operate)](freedom-to-operate.md)
+다음 문서: [핵심 기한 레퍼런스 (Key Deadlines Reference)](../appendices/key-deadlines-reference.md)

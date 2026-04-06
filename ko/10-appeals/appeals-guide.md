@@ -1,5 +1,8 @@
 # 항소 가이드 (Appeals Guide)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** Federal Circuit은 특허사건의 전속 항소법원입니다. 청구항 해석을 de novo로 심사하므로, 1심 결과가 맞아 보여도 뒤집힐 수 있습니다. 항소 여부는 "결과 불만"이 아니라 "보전된 법률오류" 기준으로 결정해야 합니다.
 
 ---
@@ -131,3 +134,7 @@ Federal Circuit이 파기/환송하면 1심은 지시에 맞춰 추가 절차 �
 피고가 본안은 이겼지만 손해액/변호사비 등 일부 불리한 부분이 있으면 교차항소 가능.
 - 상대 항소통지 후 14일 또는 원래 기한 내 제출
 - 다만 교차항소가 전체 리스크(환송 후 증액 가능성)를 키울 수 있어 신중한 비용편익 검토 필요
+
+---
+이전 문서: [재판 준비 가이드 (Trial Preparation Guide)](../09-trial-preparation/trial-preparation-guide.md)
+다음 문서: [실시자유(FTO) 분석 (Freedom to Operate)](../11-portfolio-management/freedom-to-operate.md)

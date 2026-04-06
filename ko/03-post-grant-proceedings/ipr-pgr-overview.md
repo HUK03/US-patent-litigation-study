@@ -1,5 +1,8 @@
 # IPR 및 PGR: USPTO 등록 후 절차(Post-Grant Proceedings) 개요
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 당사자계 재심(IPR)은 특허 피고에게 **가장 강력한 유효성 공격 수단**입니다. 심리개시(institution) 후 최종서면결정(FWD)까지 가면 도전 청구항의 약 **80%가 특허불가(unpatentable)** 로 판단됩니다. 다만 FY2025 심리개시율이 **50%** 로 하락해 청구서 품질이 결정적입니다.
 
 ---
@@ -147,3 +150,7 @@ IPR 신청 전 반드시 이해해야 할 가장 중요한 리스크입니다.
 - **공동피고 공조:** 단순 정보공유는 privity가 아닐 수 있으나, 공동대리인/공동전문가/비용공유 등 밀접 공조는 privity 인정 위험
 
 🌏 **한국 기업 경보:** 한국 모회사, 미국 자회사, 계열사가 RPI로 묶일 가능성을 사전 분석하십시오. 이 실수는 큰 비용 투입 후 IPR이 기간도과로 각하되는 결과를 낳을 수 있습니다.
+
+---
+이전 문서: [초기 사건 전략 (Early Case Strategy)](../02-case-initiation/early-case-strategy.md)
+다음 문서: [IPR/PGR 전략 및 타이밍](ipr-pgr-strategy-and-timing.md)

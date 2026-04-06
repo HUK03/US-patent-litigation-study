@@ -1,5 +1,8 @@
 # 합의 및 라이선싱 전략 (Settlement and Licensing Strategy)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 특허사건의 95%+는 평결 전 종결됩니다. 합의는 실패가 아니라 전략입니다. 핵심 질문은 "합의할지"가 아니라 "언제, 어떤 가치로"입니다. 소송 마일스톤과 IPR을 레버리지로 활용하십시오.
 
 ---
@@ -149,3 +152,7 @@ Verdict(항소 중심 단계)
 - 가능하면 외부대리인을 통한 비공식 공조로 방어 메시지 정렬
 - 미국 합의 후 한국 대응특허로 재소 가능성 대비(해외 패밀리까지 포괄 조항 고려)
 - 다수 한국 대기업을 겨냥한 캠페인에서는 MFN 노출 관리가 중요
+
+---
+이전 문서: [손해배상 방어 전략 (Damages Defense Strategy)](../07-damages-defense/damages-defense-strategy.md)
+다음 문서: [재판 준비 가이드 (Trial Preparation Guide)](../09-trial-preparation/trial-preparation-guide.md)

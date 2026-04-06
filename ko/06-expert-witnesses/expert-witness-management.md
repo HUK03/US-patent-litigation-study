@@ -1,5 +1,8 @@
 # 전문가 증인 관리 (Expert Witness Management)
 
+[상위 목차(ko/README.md)](../README.md)
+
+
 > **빠른 참조(Quick Reference):** 특허사건은 전문가 증언에서 승패가 갈립니다. 기술전문가는 침해/무효의 이해틀을 만들고, 손해배상 전문가는 평결 규모를 좌우합니다. 조기 선임, 철저한 검증, 증언 중심 준비가 필수입니다.
 
 ---
@@ -146,3 +149,7 @@ Daubert/FRE 702에 따라 법원은 신뢰성 없는 전문가 증언을 배제�
 - 안분을 평이하게 설명(전체 제품가치 vs 피소 기능가치)
 - 비교라이선스 선택 이유를 명확히 방어
 - 제외한 라이선스에 대한 반대신문 대비
+
+---
+이전 문서: [특권(Privilege) 및 워크프로덕트(Work Product) 보호](../05-discovery/privilege-and-work-product-protection.md)
+다음 문서: [손해배상 방어 전략 (Damages Defense Strategy)](../07-damages-defense/damages-defense-strategy.md)
