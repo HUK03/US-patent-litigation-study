@@ -225,3 +225,33 @@ Objection to district judge (14 days; "clearly erroneous or contrary to law" sta
 ```
 
 **Practical note:** Most discovery disputes are resolved before reaching the magistrate judge. The goal is to have a documented record of reasonable positions — this protects against sanctions and demonstrates good faith to the court.
+
+---
+
+## 10. 2026 Update Addendum: GenAI Data Is Core ESI
+
+### A. Expand Legal Hold Scope to AI Prompts/Outputs/Logs
+
+Legal hold notices must now explicitly name GenAI-related data sources:
+
+- Enterprise LLM prompt/response logs
+- Plugin/tool invocation records
+- Retrieval traces and citation logs
+- Model-side moderation and audit logs
+- AI-assisted code-generation history tied to accused features
+
+At hold trigger, suspend auto-deletion/rotation policies for these systems and preserve vendor-side data where contractually available.
+
+### B. Proportionality and Relevance Lessons from 2025–2026 AI Discovery Orders
+
+Discovery planning should assume that courts may compel substantial AI conversation datasets when tied to core merits or defenses, while still enforcing proportionality limits when requests are weakly connected or unduly burdensome. Build a defensible collection plan early: custodians, query design, sampling, and privacy safeguards.
+
+### C. Engineering Protocol for Patent-Sensitive AI Use
+
+For design-around, reverse engineering, and competitor-patent analysis, require:
+
+1. Attorney-directed task framing
+2. Matter-tagging of AI workspaces
+3. Separate retention buckets for privileged and non-privileged materials
+4. Monthly audit of policy compliance
+

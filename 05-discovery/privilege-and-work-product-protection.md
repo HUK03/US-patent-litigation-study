@@ -180,3 +180,32 @@ A privilege log is required for all withheld documents. Patent privilege logs ar
 For very large productions, courts sometimes permit **categorical privilege logs** (grouping similar documents into categories rather than listing each individually). Negotiate this with opposing counsel and the court early — it significantly reduces privilege log burden for large Korean-language document sets.
 
 🌏 **Korean Company Note:** When logging Korean-language privileged documents, provide English summaries of the document subject matter. Full translation is not required for the privilege log, but the description must be sufficient for the court to assess the privilege claim. Consider a categorical log approach for large volumes of Korean-language internal communications.
+
+---
+
+## 9. 2026 Update Addendum: Front-Load Privilege Process Under FRCP 16/26
+
+### A. Mandatory Early Negotiation Items (FRCP 26(f)(3)(D))
+
+At the Rule 26(f) conference, defense counsel should proactively negotiate and memorialize:
+
+- Privilege assertion timing
+- Categorical logging format and categories
+- Metadata fields needed for dispute resolution
+- Clawback mechanics and turnaround times
+
+### B. Scheduling Order Integration (FRCP 16(b)(3)(B)(iv) + FRE 502(d))
+
+Inside counsel should instruct outside counsel to request a 502(d) non-waiver order as a default item in the initial scheduling process, not as a later emergency motion.
+
+### C. Categorical Logging Baseline for Patent Cases
+
+Adopt standing categories (customize by case):
+
+- Internal investigation memoranda
+- Inventor–counsel communications
+- Opinion-of-counsel files
+- Litigation strategy and expert-prep communications (where protected)
+
+This reduces late-stage, document-by-document log inflation and cost spikes.
+

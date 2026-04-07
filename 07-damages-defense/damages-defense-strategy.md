@@ -176,3 +176,20 @@ Even if the Daubert motion is denied, file a motion in limine to:
 ### Summary Judgment on Damages (Rare but Available)
 
 In rare cases where the plaintiff's only damages theory is clearly improper as a matter of law, summary judgment on damages is available. More commonly, partial summary judgment limiting the scope of damages (e.g., ruling that certain products are not accused) reduces exposure.
+
+---
+
+## 8. 2026 Update Addendum: Geographic Limits, Willfulness Process, and Equity Defenses
+
+### A. Separate US vs. Non-US Revenue in Day-1 Damages Modeling
+
+Defense teams should require damages experts to build explicit segmentation for where the legally relevant infringing acts occurred. Do not allow blended global-revenue models without a location-of-use/copy/install analysis tied to asserted claims.
+
+### B. Willfulness Mitigation Requires Formal Opinion Workflow
+
+If competitor patents are known, implement a documented opinion-of-counsel workflow (trigger criteria, outside counsel engagement, decision memo). Commercial indemnity language alone is not a substitute for a reasoned legal non-infringement/invalidity analysis.
+
+### C. Inequitable Conduct Budgeting Reality
+
+Treat inequitable-conduct theories as high-burden, fact-intensive paths that often survive into later merits stages. Plan resources accordingly instead of assuming early summary disposition.
+

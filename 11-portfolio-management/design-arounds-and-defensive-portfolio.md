@@ -187,3 +187,37 @@ New patent alert received
 ```
 
 🌏 **Korean Company Watch Program:** Given Samsung's frequency of NPE targeting (new suit approximately every 5 days), a dedicated patent watch team with real-time monitoring is essential — not a quarterly batch review. Consider embedding patent watch functions within both the US legal team and the Korean headquarters IP team, with daily cross-communication protocols.
+
+---
+
+## 7. 2026 Update Addendum: ODP Diligence and Trade-Secret Spillover Risk
+
+### A. ODP/PTA Audit Rules for Portfolio and M&A Reviews
+
+For any family where a PTA-extended patent carries the longest term, require a prosecution-timeline audit:
+
+1. Identify earliest-filed and earliest-issued family member
+2. Map expiration dates with/without PTA
+3. Classify risk under current *Cellect*/*Allergan* boundaries
+
+If a later-filed patent is the practical term extender, reflect potential ODP invalidation risk in valuation.
+
+### B. Clean-Room Protocol as a Default Hiring/Integration Control
+
+Where teams hire from competitors or ingest external code artifacts, require documented clean-room controls:
+
+- Personnel segregation
+- Access controls and repository partitioning
+- Instruction logs and compliance attestations
+- Independent verification trail for resulting implementation
+
+### C. Global Punitive Exposure Snapshot (Management Briefing Table)
+
+| Jurisdiction / claim type | 2025–2026 enforcement signal | Manual implication |
+|---|---|---|
+| U.S. patent | Enhanced damages capped by statute (up to treble) | Keep willfulness controls and opinion process current |
+| U.S. trade secret | Large exemplary awards remain possible | Elevate clean-room and employee mobility controls |
+| Korea patent/trade secret | Expanded punitive multipliers in force | Align KR/US compliance playbooks |
+| China IP courts | Increasing punitive-award usage trend | Model China litigation downside explicitly |
+| Brazil patent | No classic punitive damages, but coercive daily fines possible | Monitor injunction-compliance operations closely |
+

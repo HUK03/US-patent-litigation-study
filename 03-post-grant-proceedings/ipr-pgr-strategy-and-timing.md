@@ -243,3 +243,30 @@ IPR can be terminated by joint motion if the parties reach a settlement. Key poi
 - Appeal the FWD to the Federal Circuit within 63 days of the FWD
 
 🌏 **Korean Company Post-IPR Note:** If the PTAB cancels the asserted claims, Korean companies should immediately seek dismissal or summary judgment in district court AND evaluate whether related continuation patents in the same family are also vulnerable to IPR challenge (NPEs frequently hold continuation patent families where some claims may survive even if the primary patent is invalidated).
+
+---
+
+## 8. 2026 Update Addendum: PTAB Realignment and Estoppel-Limited Playbooks
+
+### A. Replace "IPR-First" with a Portfolio of Parallel Validity Attacks
+
+As of Q1 2026, many defense teams have shifted from a default IPR-first approach to a split-track plan because institution outcomes are materially less predictable than in prior years. Manual users should run a budget-and-risk branch at case intake:
+
+- **Branch 1 (IPR path):** Use only when prior art is non-cumulative and merits are strong enough to survive discretionary denial scrutiny
+- **Branch 2 (District-court invalidity path):** Assume no stay and no institution; build full invalidity record from day one
+- **Branch 3 (EPR supplement):** Preserve an ex parte reexamination option as a low-estoppel pressure tool
+
+| Technology sector (post-Mar. 2025 trend) | Observed institution range | Defense planning implication |
+|---|---|---|
+| Electrical / Electronics | ~29% | File only with strongest art; district-court backup is mandatory |
+| Mechanical / Business methods | ~44% | Selective filing; prioritize grounds likely to survive discretionary screens |
+| Biopharma / Chemical | ~56% | IPR remains relatively viable but still requires a no-institution contingency |
+
+### B. Estoppel Management After *Ingenico* (Fed. Cir. 2025)
+
+Update internal estoppel checklists to reflect that § 315(e) estoppel is tied to legal grounds, not all possible reuse of the same printed publications in every context. In parallel district-court workups, coordinate with trial counsel on whether shared references can support distinct non-IPR theories (for example, product/prior-use/on-sale frameworks where factually supportable).
+
+### C. Include EPR as a Deliberate Fallback, Not a Last Resort
+
+Where IPR institution risk is elevated, include an EPR decision gate in the first 60–90 day playbook. The objective is to avoid all-or-nothing reliance on PTAB institution and maintain pressure on validity through multiple forums.
+
