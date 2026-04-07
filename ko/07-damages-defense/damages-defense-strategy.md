@@ -160,3 +160,20 @@
 ---
 이전 문서: [전문가 증인 관리 (Expert Witness Management)](../06-expert-witnesses/expert-witness-management.md)
 다음 문서: [합의 및 라이선싱 전략 (Settlement and Licensing Strategy)](../08-settlement-and-licensing/settlement-and-licensing-strategy.md)
+
+---
+
+## 8. 2026 개정 부록: 해외매출 분리·고의성 방어·형평 항변 예산화
+
+### A. Day-1 손해모델에서 미국/해외 매출 분리
+
+손해전문가에게 침해행위의 법적 발생지를 기준으로 매출을 분절하도록 지시합니다. 글로벌 매출 합산 모델은 위치별 사용/복제/설치 분석 없이 채택하지 않습니다.
+
+### B. 고의침해 방어는 "의견서 프로세스"가 핵심
+
+경쟁사 특허 인지 시 트리거 기준, 외부 로펌 선임, 의사결정 메모를 포함한 공식 opinion-of-counsel 워크플로를 운용합니다. 단순 면책조항은 고의성 방어를 대체하지 못합니다.
+
+### C. Inequitable Conduct 현실 반영
+
+불공정행위 항변은 입증 부담이 높고 사실심 중심이므로, 조기 종결을 전제로 예산을 과소편성하지 않도록 매뉴얼에 명시합니다.
+

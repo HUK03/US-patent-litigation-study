@@ -108,3 +108,26 @@ With IPR available and generally superior, ex parte reexamination plays a narrow
 4. **Low-budget option:** For smaller companies or disputes where IPR costs are prohibitive, EPR is a more economical path
 
 🌏 **Korean Company Note:** For Korean companies sued on patents where the 1-year IPR deadline has passed (common in cases where the patent was asserted years into an ongoing dispute), ex parte reexamination may be the **only remaining USPTO-based invalidity route**. Evaluate it seriously, particularly where strong prior art was not before the original examiner.
+
+---
+
+## 9. 2026 Update Addendum: EPR After IPR Final Decisions
+
+### A. Integrate the 2026 Estoppel Clarification Into Forum Strategy
+
+Manual users should account for recent Federal Circuit guidance indicating that IPR estoppel under 35 U.S.C. § 315(e)(1) does not automatically bar a requester from maintaining an ex parte reexamination track. Operationally, this supports a staged defense model:
+
+1. File IPR where meritorious and timely
+2. If outcomes are adverse or partial, evaluate EPR as a continuing validity pressure mechanism
+3. Coordinate district-court theories to avoid unnecessary duplication while preserving independent statutory grounds
+
+### B. "Double-Dipping" Governance Checklist (Inside Counsel)
+
+When similar references may appear across PTAB and district court, require outside counsel to document:
+
+- Which **legal theory** each reference supports in each forum
+- Why the district-court use is not merely a barred re-assertion of the same IPR ground
+- How product/prior-use/on-sale evidence will be developed and authenticated
+
+This checklist should be reviewed in the first major strategy meeting and refreshed after every PTAB milestone.
+
