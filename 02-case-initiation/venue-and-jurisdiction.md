@@ -152,3 +152,26 @@ If you are considering filing a **proactive declaratory judgment (DJ) action** (
 - Courts apply a rebuttable presumption in favor of the first-filed case
 - Exceptions: anticipatory suit filed purely to grab venue (not a genuine dispute), customer suit, etc.
 - Time the DJ filing carefully — too early risks DJ jurisdiction being challenged; too late means the plaintiff files first
+
+---
+
+## 8. 2026 Update Addendum: Transfer Motions Must Be Engineer-Evidence Driven
+
+### A. Federal Circuit Trend for Practical Convenience Analysis
+
+Recent mandamus practice reinforces that transfer outcomes often turn on where accused-product engineering work actually occurred, not abstract headcount comparisons or litigation gamesmanship.
+
+### B. Declaration Package Checklist (Prepare Before Filing Transfer Motion)
+
+Build a data-backed declaration set with in-house HR/engineering support:
+
+- Developer location map for accused features
+- Source-code repository commit density by geography
+- Location of technical documents and relevant labs
+- Witness role matrix (design/implementation/testing decision-makers)
+- Minimal connection facts to the plaintiff-chosen district
+
+### C. Internal Timing Rule
+
+Adopt a standing rule that transfer evidence collection starts immediately upon service, so declarations are ready before substantive deadlines and before the record suggests tactical delay.
+

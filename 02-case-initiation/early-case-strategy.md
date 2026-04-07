@@ -174,3 +174,27 @@ If YES to most of the above: File IPR petition(s)
 - Is there overlap between IPR grounds and district court invalidity contentions?
 
 **Best practice:** File IPR petitions **as early as possible** — ideally within 3–6 months of complaint service — to maximize PTAB institution probability and stay leverage.
+
+---
+
+## 9. 2026 Update Addendum: Early Merits Screens for § 101 and Skinny-Label Risk
+
+### A. § 101 Screen for Result-Oriented Functional Claiming
+
+In first-round merits review, flag patents that claim outcomes without concrete technical implementation detail. Where the specification and claim language support it, evaluate an early Rule 12(b)(6) eligibility motion before full claim construction.
+
+### B. Reverse Lesson for Internal Drafting Quality
+
+Coordinate with prosecution counsel to ensure new filings include technical mechanisms/algorithms, not only functional end results, to improve resilience against future § 101 attacks.
+
+### C. Hatch-Waxman / Skinny-Label Compliance (Cross-Functional)
+
+For carved-out generic launches, legal review should extend beyond FDA label text to non-label communications:
+
+- Press releases
+- Investor relations decks/calls
+- Sales enablement scripts
+- Website taxonomy and metadata
+
+Any wording that could be read as encouraging patented use should trigger pre-clearance escalation.
+
