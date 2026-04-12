@@ -29,8 +29,10 @@ The focus is **defensive** — large technology, electronics, and manufacturing 
 | **Case Initiation** | [Initial Case Assessment](02-case-initiation/initial-case-assessment.md) | First 2 weeks, invalidity/infringement analysis |
 | | [Venue & Jurisdiction](02-case-initiation/venue-and-jurisdiction.md) | TC Heartland, foreign defendant rules, transfer |
 | | [Early Case Strategy](02-case-initiation/early-case-strategy.md) | Defense theory, § 101 motions, willfulness |
+| | [ITC Section 337 Defense Playbook](02-case-initiation/itc-section-337-defense-playbook.md) | ITC timeline, domestic industry, remedy mitigation |
 | **Post-Grant Proceedings** | [IPR/PGR Overview](03-post-grant-proceedings/ipr-pgr-overview.md) | Mechanics, estoppel, comparison table |
 | | [IPR/PGR Strategy & Timing](03-post-grant-proceedings/ipr-pgr-strategy-and-timing.md) | Decision tree, petitions, stay motions |
+| | [IPR Defense Playbook](03-post-grant-proceedings/ipr-defense-playbook.md) | 30-day readiness, Fintiv resilience, estoppel control |
 | | [Ex Parte Reexamination](03-post-grant-proceedings/ex-parte-reexamination.md) | When to use vs. IPR |
 | **Claim Construction** | [Claim Construction Strategy](04-claim-construction/claim-construction-strategy.md) | Markman prep, term selection, prosecution history |
 | **Discovery** | [Discovery Strategy](05-discovery/discovery-strategy.md) | Production, interrogatories, depositions |
@@ -80,7 +82,7 @@ Korean companies are accustomed to Korean litigation practice, which has **no US
 
 ### ITC Section 337 Exposure
 Foreign companies importing products into the US can face ITC investigations, which move to trial within 10–12 months and can result in import bans. Korean companies are both frequent **targets** (especially from US competitors) and active **users** of the ITC as an offensive weapon (e.g., Samsung Display v. BOE, 2024–2025).
-→ See: [Initial Case Assessment](02-case-initiation/initial-case-assessment.md)
+→ See: [ITC Section 337 Defense Playbook](02-case-initiation/itc-section-337-defense-playbook.md) | [Initial Case Assessment](02-case-initiation/initial-case-assessment.md)
 
 ### NPE Targeting
 Korean technology companies — especially Samsung, LG, and SK group companies — are among the **most targeted defendants** by US NPEs. Samsung faces a new NPE patent suit approximately every 5 days. The concentrated product portfolios and deep pockets of Korean conglomerates make them disproportionate targets.
