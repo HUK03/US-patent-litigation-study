@@ -32,8 +32,10 @@
 | **사건 개시(Case Initiation)** | [초기 사건 평가](02-case-initiation/initial-case-assessment.md) | 첫 2주, 무효/침해 분석 |
 | | [재판지 및 관할](02-case-initiation/venue-and-jurisdiction.md) | TC Heartland, 해외 피고 규칙, 이송 |
 | | [초기 사건 전략](02-case-initiation/early-case-strategy.md) | 방어 이론, § 101 모션, 고의침해(willfulness) |
+| | [ITC Section 337 방어 플레이북](02-case-initiation/itc-section-337-defense-playbook.md) | ITC 일정, domestic industry, 구제수단 방어 |
 | **등록 후 절차(Post-Grant Proceedings)** | [IPR/PGR 개요](03-post-grant-proceedings/ipr-pgr-overview.md) | 절차 구조, 금반언(estoppel), 비교표 |
 | | [IPR/PGR 전략 및 타이밍](03-post-grant-proceedings/ipr-pgr-strategy-and-timing.md) | 의사결정 트리, 청구서, 소송정지(stay) 신청 |
+| | [IPR 방어 플레이북](03-post-grant-proceedings/ipr-defense-playbook.md) | 30일 준비체계, Fintiv 대응, estoppel 통제 |
 | | [직권 재심사(Ex Parte Reexamination)](03-post-grant-proceedings/ex-parte-reexamination.md) | IPR 대비 활용 시점 |
 | **청구항 해석(Claim Construction)** | [청구항 해석 전략](04-claim-construction/claim-construction-strategy.md) | Markman 준비, 쟁점 용어 선정, 출원경과 |
 | **증거개시(Discovery)** | [증거개시 전략](05-discovery/discovery-strategy.md) | 문서제출, 질의서(interrogatories), 증언녹취(depositions) |
@@ -83,7 +85,7 @@
 
 ### ITC Section 337 노출
 미국으로 제품을 수입하는 해외 기업은 ITC 조사 대상이 될 수 있으며, 10~12개월 내 재판으로 진행되어 수입금지로 이어질 수 있습니다. 한국 기업은 ITC에서 자주 **피소(target)** 될 뿐 아니라 **공격적 수단(user)** 으로도 활용합니다(예: Samsung Display v. BOE, 2024–2025).
-→ 참조: [초기 사건 평가](02-case-initiation/initial-case-assessment.md)
+→ 참조: [ITC Section 337 방어 플레이북](02-case-initiation/itc-section-337-defense-playbook.md) | [초기 사건 평가](02-case-initiation/initial-case-assessment.md)
 
 ### NPE 타깃팅
 한국 기술기업(특히 삼성, LG, SK 계열)은 미국 NPE에게 **가장 자주 표적화되는 피고군**입니다. 삼성은 평균 약 5일마다 신규 NPE 특허 소송에 직면합니다. 한국 대기업의 집중된 제품 포트폴리오와 높은 지불능력은 이들을 비례 이상으로 매력적인 타깃으로 만듭니다.
